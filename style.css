@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+}
+
+.col-6 h2 {
+    color: rgb(140, 29, 22);
+    font-size: 1.6vw;
+}
+.col-6 h1 {
+    font-size: 2.9vw;
+}
+.col-6 p {
+    font-size: 1.2vw;
+}
+.row,
+.navbar{
+    background-color:rgb(140, 29, 22) ;
+}
+.w-50{
+background-image: url('form_bg.jpg'); 
+background-size: cover; 
+background-position: center;
+height: 100%;
+}
+
+.p-2{
+    height: fit-content;
+    background-color: rgb(187, 7, 6);
+}
+.fs-2{
+     color: #003366;
+     line-height:5px;
+}
